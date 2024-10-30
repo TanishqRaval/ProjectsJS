@@ -1,0 +1,73 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+  background-color: #2b313a; /* Dark background for contrast */
+}
+
+.grid {
+  width: 200px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #060607; 
+  border: 2px solid #d8633f;
+}
+
+.grid div {
+  height: 20px;
+  width: 20px;
+  box-sizing: border-box;
+}
+
+.tetromino {
+  background-color: #91a8ae; 
+  border: 1px solid #4C566A; 
+}
+
+.taken {
+  background-color: #5E81AC; 
+}
+
+.mini-grid {
+  width: 80px;
+  height: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #153d8d; 
+  border: 2px solid #d9491d;
+  margin-left: 50px;
+}
+
+.mini-grid div {
+  height: 20px;
+  width: 20px;
+  box-sizing: border-box;
+  background-color: #486cc1; 
+}
+
+h3, button {
+  color: #0b5ff1; 
+  font-family: Arial, sans-serif;
+}
+
+#score {
+  color: #52c912; 
+}
+
+#start-button {
+  background-color: #6de107; 
+  border: none;
+  color: #060505;
+  padding: 8px 16px;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.6s ease-in ease-in-out;
+}
+
+#start-button:hover {
+  background-color: #B48EAD; 
+}
