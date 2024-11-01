@@ -12,7 +12,7 @@ Core JavaScript Logic and Operations: This calculator covers basic arithmetic op
 DOM Interaction for Real-Time Display: Includes interactive buttons and a display that updates with each input, ensuring calculations are shown and updated instantly as the user enters numbers or operations.
 Responsive User Interface: Designed with a responsive layout that adjusts for different screen sizes, maintaining an intuitive and visually pleasing experience across mobile, tablet, and desktop devices.
 
-JavaScript To-Do List Application
+JavaScript To-Do List 
 
 Efficient Task Management: Enables users to add, edit, delete, and mark tasks as completed, helping track daily tasks and improve productivity.
 DOM Manipulation for List Management: Tasks are dynamically added to the DOM, providing immediate visual feedback with color-coded indicators for active and completed tasks.
