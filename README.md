@@ -1,4 +1,4 @@
-This repository features three JavaScript projects: a Tetris game, a calculator, and a to-do list application. Each project highlights my practical knowledge in JavaScript, modern web development concepts, and DOM manipulation to create interactive, user-friendly applications.
+This repository features three JavaScript projects: a Tetris game, a calculator, and a to-do list . Each project highlights my practical knowledge in JavaScript, modern web development concepts, and DOM manipulation to create interactive, user-friendly applications.
 
 JavaScript Tetris Game
 
